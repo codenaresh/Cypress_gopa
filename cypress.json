@@ -1,0 +1,14 @@
+{
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "defaultCommandTimeout": 20000,
+  "projectId": "699gta",
+  "video": true,
+  "reporter":"mochawesome",
+  "reporterOptions": {
+    "reporDir":"cypress/report/mochawesome-report",
+    "overwrite":true,
+    "html":true,
+    "json":false,
+    "timestamp":"mmddyyyy_HHMMss"
+  }
+}

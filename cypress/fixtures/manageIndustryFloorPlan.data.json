@@ -1,0 +1,27 @@
+{
+
+    "user":"testuser5",
+    "region":"North America",
+    "title":"Admin Portal",
+    "dashaordUrltext":"dashboard",
+    "url":"floor",
+    "totalModule":9,
+    "indiustryFlorpmanTextValue":"Manage Industry Floorplan",
+    "clearBtntextValue":"Clear",
+    "searchBtntextValue":"Search",
+    "backBtnTextValue":"Back",
+    "AddNewIndustryBtnTextValue":"Add New Industry",
+    "BackBtnTextValue":"Back",
+    "EditTextVal":"Edit",
+    "CopyTextValue":"Copy",
+    "ExportTextvalue":"Export",
+    "DeleteTextValue":"Delete",
+    "regionname":"North Amercia",
+    "ConfirmationPopUptextValue":"Confirmation",
+    "DeletePopUpText":"Delete industry ?"
+
+
+
+
+    
+}

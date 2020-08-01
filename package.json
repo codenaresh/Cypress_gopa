@@ -1,0 +1,25 @@
+ {
+  "name": "guardianoneadminportal",
+  "version": "1.0.0",
+  "description": "This is a cypress prctice project",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "Binoy Narayanan",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cypress": "^4.10.0",
+    "cypress-multi-reporters": "^1.4.0",
+    "mocha": "^8.0.1",
+    "mochawesome": "^6.1.1",
+    "mochawesome-merge": "^4.1.0",
+    "mochawesome-report-generator": "^5.1.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^1.6.0",
+    "jquery": "^3.5.1"
+  }
+}

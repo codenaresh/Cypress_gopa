@@ -1,0 +1,6 @@
+{
+    "pageTitle": "Admin Portal",
+    "tabNames": ["industry floorplan", "industry floorplan import"],
+    "defaultSelectedTab": "industry floorplan",
+    "regionDropdownValues": ["Select Region","Asia Pacific","EMEA","LAC", "North America"]
+}
